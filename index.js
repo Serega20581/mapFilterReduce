@@ -114,8 +114,6 @@ const students = [
   
   console.log('Группировка по классу:', groupedStudents);
 //№10
-// index.js
-
 const sites = [
     'http://google.com',
     'https://hexlet.io',
